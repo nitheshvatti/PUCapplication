@@ -22,7 +22,7 @@ def get_db():
 
 # TODO migrations
 # TODO Auth
-# TODO store images
+# TODO store images.
 
 @app.get("/")
 async def root():
